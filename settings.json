@@ -1,5 +1,5 @@
 {
-    "token": "OTY1NTk4NjM5MTUyMDU0Mjky.G7DLpY.xza8TqIx7rj47XhllMTmlOAPw6NQvMeOb5dazo",
+    "token": "token",
     "prefix": "!",
     "color": {
         "positive": "GREEN",
@@ -7,5 +7,5 @@
         "neutral": "BLUE",
         "warn": "YELLOW"
     },
-    "ownerId": "513364759467261952"
+    "ownerId": "id создателя"
 }
